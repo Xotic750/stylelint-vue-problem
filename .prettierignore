@@ -1,0 +1,8 @@
+dist/
+node_modules/
+sandbox/
+GlobalComponents/unused-prototypes
+DevTools/
+__tests__/
+package-lock.json
+npm-shrinkwrap.json
